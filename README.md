@@ -18,6 +18,7 @@
 * _Routing structure goes here(pending.....)_
 
 ## Notes
+* _Unforeseen issue #1: I probably should have foreseen this but I realize I tend to overthink projects_
 
 ## Setup/Installation Requirements
 ##### Installation
