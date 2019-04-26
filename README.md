@@ -1,1 +1,1 @@
-go over angular lessons
+continue to go over angular lessons
