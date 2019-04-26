@@ -7,7 +7,7 @@
 ## Specifications
 * _As a patron, I want to see a list/menu of all available kegs. For each keg, I need to see its name, brand, price, and alcohol Content or flavor_
 * _As an employee, I want to fill out a form when I tap a new keg to add it to the list_
-* _As an employee, I want the option to edit a keg_
+* _As an employee, I want the option to edit a keg to_
 * _As an employee, I want to see how many pints are left in a keg (A full keg has roughly 124 pints)_
 * _As an employee, I want to be able to click a button next to a keg whenever I sell a pint of it. This should decrease the number of pints left by 1_
 * _As an employee, I want to be able to see kegs with less than 10 pints left so I can be ready to change them_
