@@ -14,6 +14,8 @@
 * _As a patron, I want to have kegs prices to be color-coded for easy readability. Perhaps based on their price(greater or less than $5 per pint, perhaps) or the particular style of beer_
 * _As a patron, I want to use the alcohol content to display stronger beers differently than weaker beers_
 
+## Routing Structure
+* _Routing structure goes here_
 
 ## Notes
 
