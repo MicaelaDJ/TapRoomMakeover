@@ -15,7 +15,7 @@
 * _As a patron, I want to use the alcohol content to display stronger beers differently than weaker beers_
 
 ## Routing Structure
-* _Routing structure goes here(pending)_
+* _Routing structure goes here(pending...)_
 
 ## Notes
 
