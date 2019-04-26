@@ -1,1 +1,1 @@
-think about project
+go over angular lessons
